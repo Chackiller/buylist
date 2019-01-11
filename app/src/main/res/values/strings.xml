@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Список покупок</string>
+    <string name="main_menu_name">Список покупок</string>
+    <string name="menu_eat_name">Їжа</string>
+    <string name="menu_different_name">Різне</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="types">
+        <item>Їжа</item>
+        <item>Різне</item>
+    </string-array>
+
+
+</resources>
